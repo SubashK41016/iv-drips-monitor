@@ -1,0 +1,12 @@
+{
+  "appId": "com.sk.ivdripmonitor",
+  "appName": "IV Drip Monitor",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#0a0e1a",
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
